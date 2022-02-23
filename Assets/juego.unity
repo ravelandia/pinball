@@ -153,7 +153,7 @@ ConstantForce2D:
   m_Enabled: 1
   m_Force: {x: 0, y: 0}
   m_RelativeForce: {x: 0, y: 0}
-  m_Torque: 800
+  m_Torque: -800
 --- !u!61 &153866028
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1196,7 +1196,7 @@ ConstantForce2D:
   m_Enabled: 1
   m_Force: {x: 0, y: 0}
   m_RelativeForce: {x: 0, y: 0}
-  m_Torque: 800
+  m_Torque: -800
 --- !u!61 &1622229954
 BoxCollider2D:
   m_ObjectHideFlags: 0
