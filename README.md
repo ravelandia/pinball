@@ -1,1 +1,1 @@
-<img src="video pinball.mp4" width="300" />
+<img src="VideoPinball.gif" width="300" />
